@@ -1,0 +1,12 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=nmrsu
+$$ 2019-12-10 10:55:42.897 +0800  nmrsu@linuxpc
+$$ /opt/PV6.0.1/data/nmrsu/20191210_104049_MRMD_phantom_practice_1_3/8/pdata/1/id
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$DATASET_KEY=( 65 )
+<2.16.756.5.5.100.8323328.19416.1575946542.238>
+##END=
+$$ File finished by PARX at 2019-12-10 10:55:42.898 +0800
